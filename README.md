@@ -3,4 +3,4 @@ This webpage uses semantic elements to comply with accessibility standards.
 
 ![screenshot of webpage](./assets/images/ScreenshotWeb.png)
 
-[Click here](https://vmarorti.github.io/Challenge-1/)
+[Click here](https://github.com/vmarorti/Agile-project-management)
